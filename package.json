@@ -1,0 +1,8 @@
+{
+  "name": "dash-app",
+  "version": "1.0.0",
+  "description": "BTS Dashboard App",
+  "main": "app.js",
+  "author": "'0xniran' <'me2niran@gmail.com'>",
+  "license": "MIT"
+}
